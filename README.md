@@ -3,7 +3,8 @@
 
 
 ![App OverView ](https://github.com/harshit77/Microfrontend/blob/master/appOverview.png)
-## Integration Technique used
+
+## Integration Technique
 > There are basically 3 techniques to implemenent integration. Here we have used **Run Time integration**.
 
 - Build Time integration
